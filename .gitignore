@@ -1,0 +1,13 @@
+# Build scripts
+setup_assets.py
+
+# Old design variants
+_old_variants/
+
+# PDFs — anonymity risk
+paper.pdf
+supplemental.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
